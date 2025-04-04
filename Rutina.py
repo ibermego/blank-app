@@ -20,7 +20,7 @@ def mostrar_recomendador():
             case ("Ganar masa muscular", "Intermedio"):
                 nombre, desc = "Dominadas lastradas", "Intensifica el entrenamiento de espalda y brazos."
             case ("Perder grasa", "Principiante"):
-                nombre, desc = "Burpees", "Ejercicio completo que acelera tu metabolismo."
+                nombre, desc = "Burpees", "Ejercicio completo que acelera tu metabolismo. NO SEAS INSANO"
             case ("Perder grasa", "Avanzado"):
                 nombre, desc = "Sprints en cinta", "Cardio de alta intensidad para quemar grasa."
             case ("Mantener forma", "Intermedio"):
