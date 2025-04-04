@@ -1,7 +1,7 @@
 import streamlit as st
 
 def mostrar_distancia():
-    st.title("🚶‍♂️ Distancia Recorrida y Calorías Quemadas")
+    st.title("🚶‍♂️ Distancia Recorrida / Calorías Quemadas")
 
     # Pedir al usuario la cantidad de pasos dados
     pasos = st.number_input("Introduce los pasos dados:", min_value=0, value=1000, step=100)
