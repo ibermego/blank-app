@@ -26,7 +26,7 @@ def mostrar_recomendador():
             case ("Mantener forma", "Intermedio"):
                 nombre, desc = "Planchas laterales", "Fortalece el core y mejora el equilibrio."
             case _:
-                nombre, desc = "Sentadillas", "Nunca fallan, cuestan, pero son efectivas."
+                nombre, desc = "Sentadillas", "Nunca fallan, cuestan, pero son efectivas. A TOPE!!"
 
         # Mostrar en columnas (con imagen)
         col1, col2 = st.columns([1, 2])
